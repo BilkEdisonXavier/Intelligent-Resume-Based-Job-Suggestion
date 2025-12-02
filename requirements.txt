@@ -1,0 +1,9 @@
+streamlit
+boto3
+botocore
+numpy
+pandas
+scikit-learn
+requests
+sentence-transformers
+PyPDF2
